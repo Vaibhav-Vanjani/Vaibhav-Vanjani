@@ -8,6 +8,7 @@
 - 🌱 I’m learning DevOps, Kubernetes, and AWS**
 - 💬 Ask me about React, Docker, PHP, MySQL, and REST APIs**
 - ⚡ Fun fact: I enjoy debugging even more than coding 😅
+- 📫 Reach me at: [vaibhavvanjani234@gmail.com](mailto:vaibhavvanjani234@gmail.com)
 
 ---
 
