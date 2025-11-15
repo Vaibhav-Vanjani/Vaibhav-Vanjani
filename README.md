@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Vanjani</h1>
-<h3 align="center">💻 A passionate full-stack developer</h3>
+<h3 align="center">💻 Full-stack developer</h3>
 
 ---
 
@@ -19,14 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Vanjani&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Vanjani&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-vanjani-92838924b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
@@ -35,11 +27,3 @@
 </p>
 
 ---
-
-### ✨ Quote of the Day
-> "Code is like humor. When you have to explain it, it’s bad."
-
----
-
-⭐ **Thanks for visiting my profile!**  
-💡 *Check out my pinned projects below.*
