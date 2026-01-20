@@ -6,8 +6,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on Next.js and PHP projects**
 - 🌱 I’m learning DevOps, Kubernetes, and AWS**
-- 💬 Ask me about React, Docker, PHP, MySQL, and REST APIs**
-- ⚡ Fun fact: I enjoy debugging even more than coding 😅
+- 💬 Ask me about React,Node, Docker, MongoDB **
 - 📫 Reach me at: [vaibhavvanjani234@gmail.com](mailto:vaibhavvanjani234@gmail.com)
 
 ---
